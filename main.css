@@ -1,0 +1,58 @@
+body{
+    
+}
+.container-left .img img{
+    width: 300px;
+
+}
+p {
+    font-size: 20px;
+}
+
+.container {
+    background-color: rgb(192, 192, 192);
+    width: 100%;
+    border-radius: 15px;
+}
+
+.skill {
+    background-color: rgb(116, 194, 92);
+    color: white;
+    padding:3%;
+    text-align: right;
+    font-size: 20px;
+    border-radius: 15px;
+}
+
+.comm {
+    width: 80%;
+}
+
+.mot {
+    width: 70%;
+}
+.office{
+    width: 90%;
+}
+.soc{
+    width: 50%;
+}
+.lang {
+    background-color: rgb(92, 152, 194);
+    color: white;
+    padding:3%;
+    text-align: right;
+    font-size: 20px;
+    border-radius: 15px;
+}
+
+.C {
+    width: 75%;
+}
+
+.Html {
+    width: 95%;
+}
+.Java{
+    width: 50%;
+}
